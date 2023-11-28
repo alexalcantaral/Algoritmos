@@ -1,2 +1,2 @@
-# algoritmos
- primeiros
+# Algoritmos
+ Repositório Git e Github
